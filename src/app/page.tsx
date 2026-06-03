@@ -175,7 +175,7 @@ export default function LandingPage() {
         {
           id: "5",          title: "Reliable and Results-Driven",          quote: "We needed a reliable partner to generate reviews, and UGC Review Expert delivered. Their process is transparent, and the results speak for themselves.",          name: "Jessica Lee",          role: "Brand Manager, Future Retail",          imageSrc: "http://img.b2bpic.net/free-photo/old-client-buys-eco-store-pantry-staples_482257-81662.jpg",          imageAlt: "Jessica Lee"},
         {
-          id: "6",          title: "Game Changer for Our Online Store!",          quote: "UGC Review Expert provided exceptional service, helping us gather positive and genuine reviews that significantly boosted our online presence and sales.",          name: "Chris Green",          role: "E-commerce Founder, GlobalTrends",          imageSrc: "http://img.b2bpic.net/free-photo/attractive-business-woman-working-his-laptop_158595-1121.jpg",          imageAlt: "Chris Green"},
+          id: "6",          title: "Game Changer for Our Online Store!",          quote: "UGC Review Expert provided exceptional service, helping us gather positive and genuine reviews that significantly boosted our online presence and sales.",          name: "Chris Green",          role: "E-commerce Founder, GlobalTrends",          imageSrc: "http://img.b2bpic.net/free-photo/attractive-business-woman-working-his-laptop_158595-1121.jpg",          alt: "Chris Green"},
       ]}
       title="What Our Clients Say"
       description="Hear from businesses that have leveraged our expertise to grow."
@@ -232,7 +232,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterLogoEmphasis
-      logoSrc="http://img.b2bpic.net/free-photo/comic-speech-bubble-with-expression-text-black-background_23-2147910096.jpg"
+      logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EdUUqlWxiv4gwKWgGGGeP4f3C3/uploaded-1780510702845-sg9dcuml.jpg"
       columns={[
         {
           items: [
