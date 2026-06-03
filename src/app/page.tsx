@@ -45,7 +45,7 @@ export default function LandingPage() {
         {
           name: "Contact",          id: "#contact"},
       ]}
-      brandName="UGC Review Expert"
+      brandName="Powered Reviews"
     />
   </div>
 
@@ -249,7 +249,7 @@ export default function LandingPage() {
           ],
         },
       ]}
-      logoText="UGC Review Expert"
+      logoText="Powered Reviews"
     />
   </div>
       </ReactLenis>
